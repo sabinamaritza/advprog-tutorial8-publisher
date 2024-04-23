@@ -1,0 +1,10 @@
+/Users/Sabina_1/Desktop/publisher/target/debug/deps/libamq_protocol_types-ed6475d4267fcaee.rmeta: /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/types.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/value.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/flags.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/generation.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/parsing.rs
+
+/Users/Sabina_1/Desktop/publisher/target/debug/deps/amq_protocol_types-ed6475d4267fcaee.d: /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/types.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/value.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/flags.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/generation.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/parsing.rs
+
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/lib.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/types.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/value.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/flags.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/generation.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-types-1.2.0/src/parsing.rs:

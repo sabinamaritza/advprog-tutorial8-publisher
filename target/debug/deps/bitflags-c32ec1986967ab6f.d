@@ -1,0 +1,11 @@
+/Users/Sabina_1/Desktop/publisher/target/debug/deps/libbitflags-c32ec1986967ab6f.rmeta: /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/iter.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/parser.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/traits.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/public.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/internal.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/external.rs
+
+/Users/Sabina_1/Desktop/publisher/target/debug/deps/bitflags-c32ec1986967ab6f.d: /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/lib.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/iter.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/parser.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/traits.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/public.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/internal.rs /Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/external.rs
+
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/lib.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/iter.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/parser.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/traits.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/public.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/internal.rs:
+/Users/Sabina_1/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitflags-2.5.0/src/external.rs:
